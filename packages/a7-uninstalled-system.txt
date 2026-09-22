@@ -1,0 +1,3 @@
+# System apps to uninstall (--user 0) — A7 (SM-T220)
+# Only uninstall packages you're sure you won't need
+com.android.chrome

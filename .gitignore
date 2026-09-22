@@ -1,0 +1,8 @@
+# Lawnchair APK (download separately from GitHub releases)
+lawnchair/*.apk
+lawnchair/*.apk.sha256
+
+# Temp files
+*.tmp
+*.swp
+*~

@@ -1,0 +1,7 @@
+# User apps to fully remove (uninstall) — A7 (SM-T220)
+# These are bloatware games and demo apps installed as user apps
+com.gameloft.android.SAMS.GloftA9SS
+com.farlightgames.igame.gp
+com.poncle.vampiresurvivors
+com.roblox.client
+com.riotgames.league.teamfighttactics
